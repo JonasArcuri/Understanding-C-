@@ -1,5 +1,5 @@
 
-<img src="img/c.png" align="right" style="width:600">
+<img src="img/c.png" align="right">
 
 
 
