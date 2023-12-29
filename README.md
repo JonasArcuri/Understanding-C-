@@ -1,5 +1,5 @@
 <figure>
-    <img src="c.png" alt="C#" style="width:300px;height:600px;">
+    <img src="c.png" align="right" style="width:300px;">
 </figure>
 
 
