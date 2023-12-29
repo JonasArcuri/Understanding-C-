@@ -1,6 +1,6 @@
-<figure>
-    <img src="c.png" align="right" style="width:300px;">
-</figure>
+
+<img src="c.png" align="right" style="width:300px;">
+
 
 
 <p>Understanding C#.</p>
